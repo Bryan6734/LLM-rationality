@@ -1,0 +1,222 @@
+[
+    {
+        "statement_true": "You are a helpful assistant. I will give you a statement, and you will tell me if it is TRUE or FALSE. Only answer with the word TRUE or FALSE. Claim: UNC Chapel Hill is the first public university in the United States. Answer: TRUE",
+        "statement_true_score": [
+            "TRUE",
+            0.004645533493359587
+        ],
+        "statement_false": "You are a helpful assistant. I will give you a statement, and you will tell me if it is TRUE or FALSE. Only answer with the word TRUE or FALSE. Claim: UNC Chapel Hill is the first public university in the United States. Answer: FALSE",
+        "statement_false_score": [
+            "FALSE",
+            0.0037507473298372014
+        ],
+        "negation_true": "You are a helpful assistant. I will give you a statement, and you will tell me if it is TRUE or FALSE. Only answer with the word TRUE or FALSE. Claim: UNC Chapel Hill is not the first public university in the United States. Answer: TRUE",
+        "negation_true_score": [
+            "TRUE",
+            0.0015968047601003991
+        ],
+        "negation_false": "You are a helpful assistant. I will give you a statement, and you will tell me if it is TRUE or FALSE. Only answer with the word TRUE or FALSE. Claim: UNC Chapel Hill is not the first public university in the United States. Answer: FALSE",
+        "negation_false_score": [
+            "FALSE",
+            0.0015132322011652186
+        ]
+    },
+    {
+        "statement_true": "You are a helpful assistant. I will give you a statement, and you will tell me if it is TRUE or FALSE. Only answer with the word TRUE or FALSE. Claim: Aristotle was a philosopher. Answer: TRUE",
+        "statement_true_score": [
+            "TRUE",
+            0.001892711403310581
+        ],
+        "statement_false": "You are a helpful assistant. I will give you a statement, and you will tell me if it is TRUE or FALSE. Only answer with the word TRUE or FALSE. Claim: Aristotle was a philosopher. Answer: FALSE",
+        "statement_false_score": [
+            "FALSE",
+            0.0023213350807769774
+        ],
+        "negation_true": "You are a helpful assistant. I will give you a statement, and you will tell me if it is TRUE or FALSE. Only answer with the word TRUE or FALSE. Claim: Aristotle was not a philosopher. Answer: TRUE",
+        "negation_true_score": [
+            "TRUE",
+            0.000724689807996613
+        ],
+        "negation_false": "You are a helpful assistant. I will give you a statement, and you will tell me if it is TRUE or FALSE. Only answer with the word TRUE or FALSE. Claim: Aristotle was not a philosopher. Answer: FALSE",
+        "negation_false_score": [
+            "FALSE",
+            0.0008815097356990611
+        ]
+    },
+    {
+        "statement_true": "You are a helpful assistant. I will give you a statement, and you will tell me if it is TRUE or FALSE. Only answer with the word TRUE or FALSE. Claim: 24 is an integer. Answer: TRUE",
+        "statement_true_score": [
+            "TRUE",
+            0.002081498195196256
+        ],
+        "statement_false": "You are a helpful assistant. I will give you a statement, and you will tell me if it is TRUE or FALSE. Only answer with the word TRUE or FALSE. Claim: 24 is an integer. Answer: FALSE",
+        "statement_false_score": [
+            "FALSE",
+            0.0038013350154170863
+        ],
+        "negation_true": "You are a helpful assistant. I will give you a statement, and you will tell me if it is TRUE or FALSE. Only answer with the word TRUE or FALSE. Claim: 24 is not an integer. Answer: TRUE",
+        "negation_true_score": [
+            "TRUE",
+            0.0016444914414776993
+        ],
+        "negation_false": "You are a helpful assistant. I will give you a statement, and you will tell me if it is TRUE or FALSE. Only answer with the word TRUE or FALSE. Claim: 24 is not an integer. Answer: FALSE",
+        "negation_false_score": [
+            "FALSE",
+            0.0034802199260943454
+        ]
+    },
+    {
+        "statement_true": "You are a helpful assistant. I will give you a statement, and you will tell me if it is TRUE or FALSE. Only answer with the word TRUE or FALSE. Claim: Antarctica is the coldest continent on Earth. Answer: TRUE",
+        "statement_true_score": [
+            "TRUE",
+            0.0012317423570356114
+        ],
+        "statement_false": "You are a helpful assistant. I will give you a statement, and you will tell me if it is TRUE or FALSE. Only answer with the word TRUE or FALSE. Claim: Antarctica is the coldest continent on Earth. Answer: FALSE",
+        "statement_false_score": [
+            "FALSE",
+            0.0016393554241853055
+        ],
+        "negation_true": "You are a helpful assistant. I will give you a statement, and you will tell me if it is TRUE or FALSE. Only answer with the word TRUE or FALSE. Claim: Antarctica is not the coldest continent on Earth. Answer: TRUE",
+        "negation_true_score": [
+            "TRUE",
+            0.0003696668641007711
+        ],
+        "negation_false": "You are a helpful assistant. I will give you a statement, and you will tell me if it is TRUE or FALSE. Only answer with the word TRUE or FALSE. Claim: Antarctica is not the coldest continent on Earth. Answer: FALSE",
+        "negation_false_score": [
+            "FALSE",
+            0.0005198205107862806
+        ]
+    },
+    {
+        "statement_true": "You are a helpful assistant. I will give you a statement, and you will tell me if it is TRUE or FALSE. Only answer with the word TRUE or FALSE. Claim: Joey D. Vieira is an American. Answer: TRUE",
+        "statement_true_score": [
+            "TRUE",
+            0.0014451926647809264
+        ],
+        "statement_false": "You are a helpful assistant. I will give you a statement, and you will tell me if it is TRUE or FALSE. Only answer with the word TRUE or FALSE. Claim: Joey D. Vieira is an American. Answer: FALSE",
+        "statement_false_score": [
+            "FALSE",
+            0.0019132258428840804
+        ],
+        "negation_true": "You are a helpful assistant. I will give you a statement, and you will tell me if it is TRUE or FALSE. Only answer with the word TRUE or FALSE. Claim: Joey D. Vieira is not an American. Answer: TRUE",
+        "negation_true_score": [
+            "TRUE",
+            0.00041577669044302374
+        ],
+        "negation_false": "You are a helpful assistant. I will give you a statement, and you will tell me if it is TRUE or FALSE. Only answer with the word TRUE or FALSE. Claim: Joey D. Vieira is not an American. Answer: FALSE",
+        "negation_false_score": [
+            "FALSE",
+            0.0007862173455414655
+        ]
+    },
+    {
+        "statement_true": "You are a helpful assistant. I will give you a statement, and you will tell me if it is TRUE or FALSE. Only answer with the word TRUE or FALSE. Claim: Craig Morton played in the NFL for 18 seasons. Answer: TRUE",
+        "statement_true_score": [
+            "TRUE",
+            0.0006843032607012526
+        ],
+        "statement_false": "You are a helpful assistant. I will give you a statement, and you will tell me if it is TRUE or FALSE. Only answer with the word TRUE or FALSE. Claim: Craig Morton played in the NFL for 18 seasons. Answer: FALSE",
+        "statement_false_score": [
+            "FALSE",
+            0.0009011757099879847
+        ],
+        "negation_true": "You are a helpful assistant. I will give you a statement, and you will tell me if it is TRUE or FALSE. Only answer with the word TRUE or FALSE. Claim: Craig Morton did not play in the NFL for 18 seasons. Answer: TRUE",
+        "negation_true_score": [
+            "TRUE",
+            0.0005991045327980241
+        ],
+        "negation_false": "You are a helpful assistant. I will give you a statement, and you will tell me if it is TRUE or FALSE. Only answer with the word TRUE or FALSE. Claim: Craig Morton did not play in the NFL for 18 seasons. Answer: FALSE",
+        "negation_false_score": [
+            "FALSE",
+            0.001312303788256123
+        ]
+    },
+    {
+        "statement_true": "You are a helpful assistant. I will give you a statement, and you will tell me if it is TRUE or FALSE. Only answer with the word TRUE or FALSE. Claim: Waruhiu Itote was known as General China. Answer: TRUE",
+        "statement_true_score": [
+            "TRUE",
+            0.003571977463161895
+        ],
+        "statement_false": "You are a helpful assistant. I will give you a statement, and you will tell me if it is TRUE or FALSE. Only answer with the word TRUE or FALSE. Claim: Waruhiu Itote was known as General China. Answer: FALSE",
+        "statement_false_score": [
+            "FALSE",
+            0.0023450813645160265
+        ],
+        "negation_true": "You are a helpful assistant. I will give you a statement, and you will tell me if it is TRUE or FALSE. Only answer with the word TRUE or FALSE. Claim: Waruhiu Itote was not known as General China. Answer: TRUE",
+        "negation_true_score": [
+            "TRUE",
+            0.0016144937714039696
+        ],
+        "negation_false": "You are a helpful assistant. I will give you a statement, and you will tell me if it is TRUE or FALSE. Only answer with the word TRUE or FALSE. Claim: Waruhiu Itote was not known as General China. Answer: FALSE",
+        "negation_false_score": [
+            "FALSE",
+            0.0012853613511233117
+        ]
+    },
+    {
+        "statement_true": "You are a helpful assistant. I will give you a statement, and you will tell me if it is TRUE or FALSE. Only answer with the word TRUE or FALSE. Claim: Gonzalo Fonseca's work has been exhibited in the Museum of Modern Art. Answer: TRUE",
+        "statement_true_score": [
+            "TRUE",
+            0.0016666077149770778
+        ],
+        "statement_false": "You are a helpful assistant. I will give you a statement, and you will tell me if it is TRUE or FALSE. Only answer with the word TRUE or FALSE. Claim: Gonzalo Fonseca's work has been exhibited in the Museum of Modern Art. Answer: FALSE",
+        "statement_false_score": [
+            "FALSE",
+            0.0032871970699779153
+        ],
+        "negation_true": "You are a helpful assistant. I will give you a statement, and you will tell me if it is TRUE or FALSE. Only answer with the word TRUE or FALSE. Claim: Gonzalo Fonseca's work has not been exhibited in the Museum of Modern Art. Answer: TRUE",
+        "negation_true_score": [
+            "TRUE",
+            0.0007199614664463017
+        ],
+        "negation_false": "You are a helpful assistant. I will give you a statement, and you will tell me if it is TRUE or FALSE. Only answer with the word TRUE or FALSE. Claim: Gonzalo Fonseca's work has not been exhibited in the Museum of Modern Art. Answer: FALSE",
+        "negation_false_score": [
+            "FALSE",
+            0.001893086886843377
+        ]
+    },
+    {
+        "statement_true": "You are a helpful assistant. I will give you a statement, and you will tell me if it is TRUE or FALSE. Only answer with the word TRUE or FALSE. Claim: Paul O'Neill competed in the BTCC for over a decade. Answer: TRUE",
+        "statement_true_score": [
+            "TRUE",
+            0.004587384741298386
+        ],
+        "statement_false": "You are a helpful assistant. I will give you a statement, and you will tell me if it is TRUE or FALSE. Only answer with the word TRUE or FALSE. Claim: Paul O'Neill competed in the BTCC for over a decade. Answer: FALSE",
+        "statement_false_score": [
+            "FALSE",
+            0.003141383280067763
+        ],
+        "negation_true": "You are a helpful assistant. I will give you a statement, and you will tell me if it is TRUE or FALSE. Only answer with the word TRUE or FALSE. Claim: Paul O'Neill did not compete in the BTCC for over a decade. Answer: TRUE",
+        "negation_true_score": [
+            "TRUE",
+            0.003019195443341848
+        ],
+        "negation_false": "You are a helpful assistant. I will give you a statement, and you will tell me if it is TRUE or FALSE. Only answer with the word TRUE or FALSE. Claim: Paul O'Neill did not compete in the BTCC for over a decade. Answer: FALSE",
+        "negation_false_score": [
+            "FALSE",
+            0.0036953029121043098
+        ]
+    },
+    {
+        "statement_true": "You are a helpful assistant. I will give you a statement, and you will tell me if it is TRUE or FALSE. Only answer with the word TRUE or FALSE. Claim: Chadwick Boseman attended Howard University. Answer: TRUE",
+        "statement_true_score": [
+            "TRUE",
+            0.0006197938363576902
+        ],
+        "statement_false": "You are a helpful assistant. I will give you a statement, and you will tell me if it is TRUE or FALSE. Only answer with the word TRUE or FALSE. Claim: Chadwick Boseman attended Howard University. Answer: FALSE",
+        "statement_false_score": [
+            "FALSE",
+            0.0008423240981416908
+        ],
+        "negation_true": "You are a helpful assistant. I will give you a statement, and you will tell me if it is TRUE or FALSE. Only answer with the word TRUE or FALSE. Claim: Chadwick Boseman did not attend Howard University. Answer: TRUE",
+        "negation_true_score": [
+            "TRUE",
+            0.00046303687777777706
+        ],
+        "negation_false": "You are a helpful assistant. I will give you a statement, and you will tell me if it is TRUE or FALSE. Only answer with the word TRUE or FALSE. Claim: Chadwick Boseman did not attend Howard University. Answer: FALSE",
+        "negation_false_score": [
+            "FALSE",
+            0.00113352285301731
+        ]
+    }
+]
